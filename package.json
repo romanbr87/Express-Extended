@@ -1,0 +1,16 @@
+{
+	"name": "Express-extended",
+	"version": "1.0.0",
+	"description": "Some useful functions for express.js & passport.js ",
+	"main": "index.js",
+	"keywords": [
+    "auth",
+    "authentication",
+    "authn",
+    "connect",
+    "express",
+    "passport"
+	],
+	"author": "Roman Braverman",
+	"license": "ISC"
+}

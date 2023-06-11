@@ -1,16 +1,12 @@
 {
-	"name": "Express-extended",
-	"version": "1.0.0",
-	"description": "Some useful functions for express.js & passport.js ",
-	"main": "index.js",
-	"keywords": [
-    "auth",
-    "authentication",
-    "authn",
-    "connect",
-    "express",
-    "passport"
-	],
-	"author": "Roman Braverman",
-	"license": "ISC"
+  "name": "Express-extended",
+  "version": "1.0.0",
+  "description": "Useful function for importing all the functions and variables of a module ",
+  "main": "index.js",
+  "keywords": [
+    "node.js",
+    "import-all"
+  ],
+  "author": "Roman Braverman",
+  "license": "ISC"
 }
